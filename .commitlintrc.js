@@ -8,6 +8,7 @@ module.exports = {
     "scope-empty": [2,'never'],
     "type-empty": [2,"never"],
     "subject-case": [0],
+    "signed-off-by": [1,'always','Dennis'],
     "type-enum": [2,'always',[
       'feat',
       'fix',
